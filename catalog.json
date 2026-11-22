@@ -1,0 +1,14 @@
+[
+  {"name": "AI Addendum", "description": "Addendum to a commercial agreement covering a provider's AI services, including customer input, generated output, and training restrictions.", "filename": "AI-Addendum.md"},
+  {"name": "Business Associate Agreement", "description": "HIPAA business associate agreement governing a provider's handling of protected health information (PHI) on behalf of a customer.", "filename": "BAA.md"},
+  {"name": "Cloud Service Agreement", "description": "Standard terms for a customer's subscription to a provider's cloud service, including access, fees, term, and liability.", "filename": "CSA.md"},
+  {"name": "Design Partner Agreement", "description": "Agreement giving a design partner early access to a product in exchange for feedback.", "filename": "Design-Partner-Agreement.md"},
+  {"name": "Data Processing Agreement", "description": "Terms governing the processing of personal data by a provider on behalf of a customer, including subprocessors and security.", "filename": "DPA.md"},
+  {"name": "Mutual Non-Disclosure Agreement (Standard Terms)", "description": "Standard terms of a mutual NDA under which each party may disclose confidential information to the other for a stated purpose.", "filename": "Mutual-NDA.md"},
+  {"name": "Mutual Non-Disclosure Agreement (Cover Page)", "description": "Cover page for the Mutual NDA, where the parties fill in the purpose, effective date, term, and governing law.", "filename": "Mutual-NDA-coverpage.md"},
+  {"name": "Partnership Agreement", "description": "Agreement between two companies setting out the obligations, referrals, and cooperation terms of a business partnership.", "filename": "Partnership-Agreement.md"},
+  {"name": "Pilot Agreement", "description": "Short-term agreement allowing a prospective customer to evaluate a product before committing to a full commercial agreement.", "filename": "Pilot-Agreement.md"},
+  {"name": "Professional Services Agreement", "description": "Terms for a provider performing professional services for a customer under one or more statements of work (SOWs).", "filename": "PSA.md"},
+  {"name": "Service Level Agreement", "description": "Terms for uptime targets, support response times, and service credits for a cloud service.", "filename": "SLA.md"},
+  {"name": "Software License Agreement", "description": "Standard terms for licensing software to a customer, including license grant, fees, support, and liability.", "filename": "Software-License-Agreement.md"}
+]
